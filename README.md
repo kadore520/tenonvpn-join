@@ -7,19 +7,21 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 ## Access steps
 1. Download the code:
 
-### git clone https://github.com/actantion/vpn_join.git or wget https://github.com/actantion/vpn_join/archive/1.1.0.zip
+      ### git clone https://github.com/actantion/vpn_join.git
+        or
+      ### wget https://github.com/actantion/vpn_join/archive/1.1.0.zip
 
 2. init system, system will restart after execution
 
- ### sh init_env.sh
+      ### sh init_env.sh
 
 3. (optional step), set your own private key (is the private key, not the account address), all nodes share incentives will be sent to this account address 
 
-### sh set_private_key.sh private_key
+      ### sh set_private_key.sh private_key
 
 4. start node: 
 
-### sh start_node.sh
+      ### sh start_node.sh
 
 # 
 # 
