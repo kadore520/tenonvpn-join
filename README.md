@@ -1,3 +1,27 @@
+#English
+
+Third-party join us, one-click startup, and join in the decentralized Tenon VPN network, providing services and routing
+Currently only supports: centos 7
+We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, and Taiwan
+
+Access steps
+1. Download the code:
+
+git clone https://github.com/actantion/vpn_join.git
+or
+wget https://github.com/actantion/vpn_join/archive/1.1.2.zip
+
+2. Execute: sh init_env.sh
+System will restart after execution
+
+3. (optional step), set your own private key (is the private key, not the account address), all nodes share incentives will be sent to this account address 
+
+sh set_private_key.sh private_key
+
+4. Execute: sh start_node.sh
+
+#中文
+
 ## vpn_join
 第三方节点接入，一键式启动，并接入去中心化Tenon VPN网络，提供服务和路由
 
