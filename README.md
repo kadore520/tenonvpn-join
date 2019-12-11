@@ -35,7 +35,7 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 
 ## 接入步骤
 
-1. 下载代码： 
+### 1. 下载代码： 
   
    git clone https://github.com/actantion/vpn_join.git
    
@@ -44,13 +44,14 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
    wget https://github.com/actantion/vpn_join/archive/1.1.3.zip
    
 
-2. 执行： sh init_env.sh  
+### 2. 执行： sh init_env.sh  
    执行完成后会重启系统
    
-3. （可选步骤）， 设置自己的私钥（是私钥不是账号地址），所有节点共享激励将发送到这个账户地址
+### 3. （可选步骤）， 设置自己的私钥（是私钥不是账号地址），所有节点共享激励将发送到这个账户地址
    sh set_private_key.sh 私钥
    
-4. 执行： sh start_node.sh
+### 4. 执行：
+   sh start_node.sh
 
     
     
