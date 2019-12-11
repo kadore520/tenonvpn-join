@@ -37,21 +37,20 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 
 ### 1. 下载代码： 
   
-   git clone https://github.com/tenondvpn/tenonvpn-join.git
-   
-   或者
-   
-   wget https://github.com/tenondvpn/tenonvpn-join/archive/1.0.0.zip
+      git clone https://github.com/tenondvpn/tenonvpn-join.git
+      或者
+      wget https://github.com/tenondvpn/tenonvpn-join/archive/1.0.0.zip
    
 
-### 2. 执行： sh init_env.sh  
-   执行完成后会重启系统
+### 2. 初始化环境，执行完成后会重启系统
+      sh init_env.sh  
+   
    
 ### 3. （可选步骤）， 设置自己的私钥（是私钥不是账号地址），所有节点共享激励将发送到这个账户地址
-   sh set_private_key.sh 私钥
+      sh set_private_key.sh 私钥
    
-### 4. 执行：
-   sh start_node.sh
+### 4. 启动节点：
+      sh start_node.sh
 
     
     
