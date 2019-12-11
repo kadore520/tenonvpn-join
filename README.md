@@ -11,8 +11,9 @@ git clone https://github.com/actantion/vpn_join.git
 or
 wget https://github.com/actantion/vpn_join/archive/1.1.2.zip
 
-2. Execute: sh init_env.sh
-System will restart after execution
+2. init system, system will restart after execution
+
+ sh init_env.sh
 
 3. (optional step), set your own private key (is the private key, not the account address), all nodes share incentives will be sent to this account address 
 
