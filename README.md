@@ -21,6 +21,8 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 
 ### sh start_node.sh
 
+# 
+# 
 # 中文
 
 第三方节点接入，一键式启动，并接入去中心化Tenon VPN网络，提供服务和路由
