@@ -9,7 +9,7 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 
       git clone https://github.com/actantion/vpn_join.git
       or
-      wget https://github.com/actantion/vpn_join/archive/1.1.0.zip
+      wget https://github.com/tenondvpn/tenonvpn-join/archive/1.0.0.zip
 
 ### 2. init system, system will restart after execution
 
@@ -41,7 +41,7 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
    
    或者
    
-   wget https://github.com/actantion/vpn_join/archive/1.1.3.zip
+   wget https://github.com/tenondvpn/tenonvpn-join/archive/1.0.0.zip
    
 
 ### 2. 执行： sh init_env.sh  
