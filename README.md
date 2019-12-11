@@ -7,7 +7,7 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 ## Access steps
 ### 1. Download the code:
 
-      git clone https://github.com/actantion/vpn_join.git
+      git https://github.com/tenondvpn/tenonvpn-join.git
       or
       wget https://github.com/tenondvpn/tenonvpn-join/archive/1.0.0.zip
 
@@ -37,7 +37,7 @@ We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, 
 
 ### 1. 下载代码： 
   
-   git clone https://github.com/actantion/vpn_join.git
+   git clone https://github.com/tenondvpn/tenonvpn-join.git
    
    或者
    
