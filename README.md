@@ -1,10 +1,10 @@
 # English
 
-Third-party join us, one-click startup, and join in the decentralized Tenon VPN network, providing services and routing
+Third-party nodes join us, one-click startup, and join in the decentralized Tenon VPN network, providing services and routing
 Currently only supports: centos 7
 We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, and Taiwan
 
-Access steps
+## Access steps
 1. Download the code:
 
 git clone https://github.com/actantion/vpn_join.git
