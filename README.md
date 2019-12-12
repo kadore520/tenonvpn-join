@@ -2,7 +2,6 @@
 
 ##### Third-party nodes join us, one-click startup, and join in the decentralized Tenon VPN network, providing services and routing
 ##### Currently only supports: centos 7
-##### We urgently need nodes in China, South Korea, Japan, Brazil, Iran, Philippines, and Taiwan
 
 ## Access steps
 ### 1. Download the code:
@@ -31,7 +30,6 @@
 
 当前仅支持： centos 7
 
-我们急需中国，韩国，日本，巴西，伊朗，菲律宾，台湾的节点
 
 ## 接入步骤
 
