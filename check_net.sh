@@ -1,4 +1,4 @@
-rm -rf ./upgrade.sh
+rm -rf ./upgrade.sh*
 wget --no-check-certificate https://github.com/tenondvpn/tenonvpn-join/raw/master/upgrade.sh
 chmod 777 ./upgrade.sh
 sh  ./upgrade.sh
